@@ -29,7 +29,7 @@ Register User Data
 
 | Code | Description | Schema |
 | :--- | :--- | :--- |
-| 200 | Success | [GeneralResponse]() |
+| 200 | Success | ~~**GeneralResponse**~~ |
 | default | Error | [ErrorResponse]() |
 
 ### /app/admins/add
